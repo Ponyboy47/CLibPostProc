@@ -1,0 +1,5 @@
+module CLibPostProc [system] {
+  header "postproc.h"
+  link "postproc"
+  export *
+}
